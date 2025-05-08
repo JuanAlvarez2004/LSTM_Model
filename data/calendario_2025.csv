@@ -1,0 +1,200 @@
+Fecha_Numero,Fecha,Local,Visitante
+1,2025-01-24,Boyacá Chicó,Bucaramanga
+1,2025-01-24,Unión Magdalena,Millonarios
+1,2025-01-24,América de Cali,Llaneros
+1,2025-01-24,Atlético Nacional,Once Caldas
+1,2025-01-24,Independiente Santa Fe,Pereira
+1,2025-01-24,Junior,Deportivo Cali
+1,2025-01-24,Alianza FC,Independiente Medellín
+1,2025-01-24,Rionegro,La Equidad
+1,2025-01-24,Deportes Tolima,Deportivo Pasto
+1,2025-01-24,Fortaleza CEIF,Envigado
+2,2025-01-31,Independiente Santa Fe,Deportes Tolima
+2,2025-01-31,Once Caldas,Fortaleza CEIF
+2,2025-01-31,Deportivo Pasto,Millonarios
+2,2025-01-31,Junior,Rionegro
+2,2025-01-31,La Equidad,Atlético Nacional
+2,2025-01-31,Deportivo Cali,Envigado
+2,2025-01-31,Independiente Medellín,Boyacá Chicó
+2,2025-01-31,Bucaramanga,América de Cali
+2,2025-01-31,Pereira,Alianza FC
+2,2025-01-31,Llaneros,Unión Magdalena
+3,2025-02-07,Rionegro,Independiente Santa Fe
+3,2025-02-07,Deportes Tolima,Alianza FC
+3,2025-02-07,Boyacá Chicó,Llaneros
+3,2025-02-07,América de Cali,Deportivo Pasto
+3,2025-02-07,Unión Magdalena,Junior
+3,2025-02-07,Millonarios,La Equidad
+3,2025-02-07,Envigado,Independiente Medellín
+3,2025-02-07,Once Caldas,Bucaramanga
+3,2025-02-07,Fortaleza CEIF,Deportivo Cali
+3,2025-02-07,Atlético Nacional,Pereira
+4,2025-02-11,Llaneros,Millonarios
+4,2025-02-11,Rionegro,América de Cali
+4,2025-02-11,Deportivo Pasto,Boyacá Chicó
+4,2025-02-11,Independiente Medellín,Unión Magdalena
+4,2025-02-11,Independiente Santa Fe,Atlético Nacional
+4,2025-02-11,La Equidad,Envigado
+4,2025-02-11,Junior,Once Caldas
+4,2025-02-11,Pereira,Deportes Tolima
+4,2025-02-11,Deportivo Cali,Bucaramanga
+4,2025-02-11,Alianza FC,Fortaleza CEIF
+5,2025-02-15,América de Cali,Independiente Santa Fe
+5,2025-02-15,Millonarios,Independiente Medellín
+5,2025-02-15,Unión Magdalena,La Equidad
+5,2025-02-15,Atlético Nacional,Deportes Tolima
+5,2025-02-15,Envigado,Deportivo Pasto
+5,2025-02-15,Fortaleza CEIF,Rionegro
+5,2025-02-15,Bucaramanga,Alianza FC
+5,2025-02-15,Llaneros,Deportivo Cali
+5,2025-02-15,Boyacá Chicó,Junior
+5,2025-02-15,Once Caldas,Pereira
+6,2025-02-21,La Equidad,Boyacá Chicó
+6,2025-02-21,Rionegro,Once Caldas
+6,2025-02-21,Pereira,Fortaleza CEIF
+6,2025-02-21,Independiente Santa Fe,Bucaramanga
+6,2025-02-21,Alianza FC,Atlético Nacional
+6,2025-02-21,Deportivo Cali,Millonarios
+6,2025-02-21,Deportes Tolima,América de Cali
+6,2025-02-21,Junior,Envigado
+6,2025-02-21,Deportivo Pasto,Unión Magdalena
+6,2025-02-21,Independiente Medellín,Llaneros
+7,2025-02-28,Envigado,Independiente Santa Fe
+7,2025-02-28,Boyacá Chicó,Rionegro
+7,2025-02-28,Bucaramanga,Junior
+7,2025-02-28,América de Cali,Pereira
+7,2025-02-28,Once Caldas,Alianza FC
+7,2025-02-28,Millonarios,Deportes Tolima
+7,2025-02-28,Unión Magdalena,Deportivo Cali
+7,2025-02-28,Independiente Medellín,Deportivo Pasto
+7,2025-02-28,Llaneros,La Equidad
+7,2025-02-28,Fortaleza CEIF,Atlético Nacional
+8,2025-03-07,Rionegro,Bucaramanga
+8,2025-03-07,Pereira,Envigado
+8,2025-03-07,Alianza FC,Unión Magdalena
+8,2025-03-07,Deportivo Pasto,Llaneros
+8,2025-03-07,La Equidad,Independiente Medellín
+8,2025-03-07,Independiente Santa Fe,Fortaleza CEIF
+8,2025-03-07,Junior,Millonarios
+8,2025-03-07,Atlético Nacional,América de Cali
+8,2025-03-07,Deportivo Cali,Boyacá Chicó
+8,2025-03-07,Deportes Tolima,Once Caldas
+9,2025-03-14,Bucaramanga,Pereira
+9,2025-03-14,Deportivo Pasto,La Equidad
+9,2025-03-14,Envigado,Atlético Nacional
+9,2025-03-14,Fortaleza CEIF,Deportes Tolima
+9,2025-03-14,América de Cali,Alianza FC
+9,2025-03-14,Once Caldas,Independiente Santa Fe
+9,2025-03-14,Millonarios,Rionegro
+9,2025-03-14,Unión Magdalena,Boyacá Chicó
+9,2025-03-14,Independiente Medellín,Deportivo Cali
+9,2025-03-14,Llaneros,Junior
+10,2025-03-22,Boyacá Chicó,Deportivo Pasto
+10,2025-03-22,La Equidad,Fortaleza CEIF
+10,2025-03-22,Pereira,Once Caldas
+10,2025-03-22,Independiente Santa Fe,Millonarios
+10,2025-03-22,Alianza FC,Bucaramanga
+10,2025-03-22,Atlético Nacional,Independiente Medellín
+10,2025-03-22,Rionegro,Envigado
+10,2025-03-22,Deportes Tolima,Llaneros
+10,2025-03-22,Deportivo Cali,América de Cali
+10,2025-03-22,Junior,Unión Magdalena
+11,2025-03-28,Bucaramanga,Atlético Nacional
+11,2025-03-28,Deportivo Pasto,Deportivo Cali
+11,2025-03-28,Independiente Medellín,Rionegro
+11,2025-03-28,Envigado,Once Caldas
+11,2025-03-28,Millonarios,Alianza FC
+11,2025-03-28,Unión Magdalena,Independiente Santa Fe
+11,2025-03-28,América de Cali,Fortaleza CEIF
+11,2025-03-28,La Equidad,Junior
+11,2025-03-28,Llaneros,Pereira
+11,2025-03-28,Boyacá Chicó,Deportes Tolima
+12,2025-04-04,Alianza FC,Envigado
+12,2025-04-04,Independiente Santa Fe,Deportivo Pasto
+12,2025-04-04,Atlético Nacional,Unión Magdalena
+12,2025-04-04,Deportivo Cali,La Equidad
+12,2025-04-04,Once Caldas,América de Cali
+12,2025-04-04,Deportes Tolima,Bucaramanga
+12,2025-04-04,Pereira,Boyacá Chicó
+12,2025-04-04,Fortaleza CEIF,Millonarios
+12,2025-04-04,Junior,Independiente Medellín
+12,2025-04-04,Rionegro,Llaneros
+13,2025-04-10,La Equidad,Independiente Santa Fe
+13,2025-04-10,Llaneros,Alianza FC
+13,2025-04-10,Deportivo Cali,Rionegro
+13,2025-04-10,Envigado,América de Cali
+13,2025-04-10,Unión Magdalena,Pereira
+13,2025-04-10,Deportivo Pasto,Junior
+13,2025-04-10,Boyacá Chicó,Once Caldas
+13,2025-04-10,Millonarios,Atlético Nacional
+13,2025-04-10,Bucaramanga,Fortaleza CEIF
+13,2025-04-10,Independiente Medellín,Deportes Tolima
+14,2025-04-14,Independiente Santa Fe,Independiente Medellín
+14,2025-04-14,Alianza FC,Deportivo Pasto
+14,2025-04-14,Pereira,Deportivo Cali
+14,2025-04-14,Deportes Tolima,Junior
+14,2025-04-14,Rionegro,Unión Magdalena
+14,2025-04-14,Once Caldas,La Equidad
+14,2025-04-14,Atlético Nacional,Boyacá Chicó
+14,2025-04-14,América de Cali,Millonarios
+14,2025-04-14,Bucaramanga,Envigado
+14,2025-04-14,Fortaleza CEIF,Llaneros
+15,2025-04-19,La Equidad,América de Cali
+15,2025-04-19,Junior,Alianza FC
+15,2025-04-19,Independiente Medellín,Once Caldas
+15,2025-04-19,Envigado,Deportes Tolima
+15,2025-04-19,Unión Magdalena,Bucaramanga
+15,2025-04-19,Deportivo Cali,Atlético Nacional
+15,2025-04-19,Llaneros,Independiente Santa Fe
+15,2025-04-19,Millonarios,Pereira
+15,2025-04-19,Deportivo Pasto,Rionegro
+15,2025-04-19,Boyacá Chicó,Fortaleza CEIF
+16,2025-04-26,Envigado,Unión Magdalena
+16,2025-04-26,Deportes Tolima,La Equidad
+16,2025-04-26,Fortaleza CEIF,Independiente Medellín
+16,2025-04-26,Atlético Nacional,Deportivo Pasto
+16,2025-04-26,Independiente Santa Fe,Boyacá Chicó
+16,2025-04-26,América de Cali,Deportivo Cali
+16,2025-04-26,Pereira,Junior
+16,2025-04-26,Once Caldas,Llaneros
+16,2025-04-26,Bucaramanga,Millonarios
+16,2025-04-26,Alianza FC,Rionegro
+17,2025-05-03,Llaneros,Bucaramanga
+17,2025-05-03,La Equidad,Alianza FC
+17,2025-05-03,Independiente Medellín,Atlético Nacional
+17,2025-05-03,Deportivo Cali,Deportes Tolima
+17,2025-05-03,Deportivo Pasto,Fortaleza CEIF
+17,2025-05-03,Boyacá Chicó,Envigado
+17,2025-05-03,Unión Magdalena,Once Caldas
+17,2025-05-03,Junior,América de Cali
+17,2025-05-03,Rionegro,Pereira
+17,2025-05-03,Millonarios,Independiente Santa Fe
+18,2025-05-10,Envigado,Rionegro
+18,2025-05-10,Deportes Tolima,Unión Magdalena
+18,2025-05-10,Fortaleza CEIF,La Equidad
+18,2025-05-10,Atlético Nacional,Llaneros
+18,2025-05-10,Independiente Santa Fe,Junior
+18,2025-05-10,América de Cali,Boyacá Chicó
+18,2025-05-10,Pereira,Deportivo Pasto
+18,2025-05-10,Once Caldas,Millonarios
+18,2025-05-10,Bucaramanga,Independiente Medellín
+18,2025-05-10,Alianza FC,Deportivo Cali
+19,2025-05-17,Llaneros,Deportes Tolima
+19,2025-05-17,La Equidad,Bucaramanga
+19,2025-05-17,Independiente Medellín,Pereira
+19,2025-05-17,Deportivo Cali,Independiente Santa Fe
+19,2025-05-17,Deportivo Pasto,Once Caldas
+19,2025-05-17,Boyacá Chicó,Alianza FC
+19,2025-05-17,Unión Magdalena,América de Cali
+19,2025-05-17,Junior,Fortaleza CEIF
+19,2025-05-17,Rionegro,Atlético Nacional
+19,2025-05-17,Millonarios,Envigado
+20,2025-05-24,Envigado,Llaneros
+20,2025-05-24,Deportes Tolima,Rionegro
+20,2025-05-24,Fortaleza CEIF,Unión Magdalena
+20,2025-05-24,Atlético Nacional,Junior
+20,2025-05-24,América de Cali,Independiente Medellín
+20,2025-05-24,Once Caldas,Deportivo Cali
+20,2025-05-24,Bucaramanga,Deportivo Pasto
+20,2025-05-24,Alianza FC,Independiente Santa Fe
+20,2025-05-24,Millonarios,Boyacá Chicó
