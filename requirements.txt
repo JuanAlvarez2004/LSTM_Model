@@ -1,35 +1,7 @@
-# Web scraping básico
-requests==2.31.0
-beautifulsoup4==4.12.2
-lxml==4.9.3
-
-# Selenium para navegación dinámica
-selenium==4.15.0
-webdriver-manager==4.0.1
-
-# Manejo de datos
+tensorflow==2.8.0
+keras==2.8.0
 numpy==1.24.3
 pandas==2.0.3
-
-# Visualización de datos
 matplotlib==3.7.2
-seaborn==0.12.2
-plotly==5.17.0
-
-# Análisis estadístico y modelos
-scikit-learn==1.3.0
-statsmodels==0.14.0
-scipy==1.11.3
-
-# Series temporales (opcional)
-pmdarima==2.0.3
-prophet==1.1.4
-
-# Jupyter y entorno de desarrollo
-jupyter==1.0.0
-notebook==7.0.6
-ipykernel==6.25.2
-
-# Utilidades
-python-dotenv==1.0.0
-tqdm==4.66.1
+seaborn==0.11.2  # Mejor usar 0.11.2 para compatibilidad con matplotlib
+scikit-learn==1.0.2
